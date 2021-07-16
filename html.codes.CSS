@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color: cadetblue;
+    text-shadow: 2px 3px 4px ;
+    padding: 1%;
+}
+
+h2{
+    padding: 2%;
+    color: dimgray;
+    text-shadow: 2px 3px 4px ;
+   
+}
+
+
+div{
+    margin: 19%;
+    padding: 1%;
+    width: 200px;
+    height: 650px;
+    border: 3px solid #b2be04;
+    text-shadow: 2px 3px 4px ;
+    text-align: center;
+    box-shadow: 2px 3px 14px #000000;
+    
+}
+.box1{
+    margin: 110%;
+    height: 50%;
+}
+.box2{
+   margin: 10%;
+   padding: 3%;
+
+   
+
+    
+}
+.box1{
+    margin: 10%;
+    
+}
